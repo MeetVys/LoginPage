@@ -1,0 +1,15 @@
+body{
+    background-image: url(../images/Login\ page\ backg.jpg);
+}
+#g-btn {
+    background-color: #ea4335;
+    font-weight: bold;
+    /* color: black; */
+    
+}
+
+#fb-btn {
+    background-color: #3B5998;
+    font-weight: bold;   
+}
+
